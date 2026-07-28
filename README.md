@@ -1,16 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:00CEC9&height=200&section=header&text=Hey,%20I'm%20Harshita%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20NLP%20%7C%20Building%20systems,%20not%20just%20models&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/wave.gif" width="35"/>
 
-<a href="https://github.com/harshita10sharma">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00CEC9&center=true&vCenter=true&width=650&lines=Applied+ML+Engineer+%7C+Team+Conatus;Building+NLP+%2B+Agentic+AI+Systems;MindBot+%7C+MindEase+%7C+PollutionIQ+%7C+ValueTrack;Currently+exploring+MCP+%26+RAG+workflows" alt="Typing SVG" />
-</a>
+<table>
+<tr>
+<td width="58%" valign="middle">
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=900&color=00CEC9&center=false&vCenter=true&multiline=true&width=520&height=90&lines=Hi+there%2C+I%27m+Harshita+%F0%9F%91%8B;Welcome+to+my+dev+space+%E2%9C%A8;Applied+ML+Engineer+%7C+NLP" alt="greeting"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=6C5CE7&center=false&vCenter=true&width=520&lines=Building+NLP+%2B+Agentic+AI+Systems;MindBot+%7C+MindEase+%7C+PollutionIQ+%7C+ValueTrack;Currently+exploring+MCP+%26+RAG+workflows" alt="roles"/>
+
+</td>
+<td width="42%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
+</td>
+</tr>
+</table>
 
 <a href="https://linkedin.com/in/harshita10sharma"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:harshita25404@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/harshita10sharma"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=harshita10sharma&color=6C5CE7&style=for-the-badge&label=Profile+Views"/>
 
 </div>
 
@@ -18,7 +30,7 @@
 
 ## 🚀 About Me
 
-- 🔭 B.Tech CSE (AIML) student — **CGPA 8.74** — currently building applied AI systems that go beyond training models
+- 🔭 B.Tech CSE (AIML) student — **CGPA 9.09** — currently building applied AI systems that go beyond training models
 - 🧠 Applied Machine Learning Engineer at **Team Conatus**, my university's core technical society
 - 🤖 Building **NLP + LLM systems**: chatbots with intent detection, safety-aware response logic, and MCP-based agentic tools
 - 📊 Comfortable across the full ML lifecycle — EDA, feature engineering, model training/evaluation, and **deployment via Flask APIs**
@@ -85,6 +97,13 @@ AI-powered platform combining stress-prediction ML models with a safety-first NL
 - **Stack:** Python · Flask · Scikit-learn · Hugging Face API · Matplotlib/Seaborn
 - 🔗 [Web App](https://mindeasess.netlify.app/) · [Chatbot](https://mindeasess.netlify.app/chat) · [Code](https://github.com/somya-ctrl/task_team5/tree/harshita_sharma)
 
+### 🧩 Mental Health Treatment Prediction
+An ML model that predicts whether a person may need professional mental health treatment, based on anonymous survey inputs like age, gender, family history, and workplace stress factors.
+- Trained and compared Logistic Regression, Decision Tree, and Random Forest — **Random Forest performed best at ~75% accuracy**, with strong recall on "treatment needed" cases
+- Preprocessed data with LabelEncoder and StandardScaler; deployed the trained model with Flask and hosted it live on Render — no login, no data tracking
+- **Stack:** Python · Flask · Scikit-learn · Render
+- 🔗 [Live Demo](https://mental-health-treatment-prediction.onrender.com) · [Code](https://github.com/harshita10sharma/mental-health-treatment-prediction)
+
 ### 🔌 MCP-Based Document Intelligence System
 An MCP server + client enabling AI-driven document retrieval, editing, and context-injection workflows.
 - Custom tools/resources/prompts via FastMCP with Pydantic schema validation, powered by the Gemini API
@@ -105,12 +124,13 @@ End-to-end regression system predicting vehicle CO₂ emissions, deployed as a l
 
 <br/>
 
-## 📊 GitHub Stats
+## 🌱 Open Source
 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=harshita10sharma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshita10sharma&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
+- Selected as a **Contributor for GirlScript Summer of Code 2026 (GSSoC'26)** — contributing to open-source projects across AI/ML and development tracks
+
+<br/>
+
+## 📊 GitHub Stats
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=harshita10sharma&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
