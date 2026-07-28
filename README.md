@@ -1,21 +1,11 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/wave.gif" width="35"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/wave.gif" width="30"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1000&color=00CEC9&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hi+there%2C+I%27m+Harshita+%F0%9F%91%8B;Welcome+to+my+dev+space+%E2%9C%A8" alt="greeting"/>
 
-<table>
-<tr>
-<td width="58%" valign="middle">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1200&color=6C5CE7&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%7C+NLP+%7C+Building+systems%2C+not+just+models" alt="tagline"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=900&color=00CEC9&center=false&vCenter=true&multiline=true&width=520&height=90&lines=Hi+there%2C+I%27m+Harshita+%F0%9F%91%8B;Welcome+to+my+dev+space+%E2%9C%A8;Applied+ML+Engineer+%7C+NLP" alt="greeting"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=6C5CE7&center=false&vCenter=true&width=520&lines=Building+NLP+%2B+Agentic+AI+Systems;MindBot+%7C+MindEase+%7C+PollutionIQ+%7C+ValueTrack;Currently+exploring+MCP+%26+RAG+workflows" alt="roles"/>
-
-</td>
-<td width="42%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
-</td>
-</tr>
-</table>
+<br/>
 
 <a href="https://linkedin.com/in/harshita10sharma"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:harshita25404@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
