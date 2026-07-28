@@ -1,9 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/wave.gif" width="30"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1000&color=00CEC9&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hi+there%2C+I%27m+Harshita+%F0%9F%91%8B;Welcome+to+my+dev+space+%E2%9C%A8" alt="greeting"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:00CEC9&height=200&section=header&text=Hi%20there,%20I'm%20Harshita&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20dev%20space%20✨&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1200&color=6C5CE7&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%7C+NLP+%7C+Building+systems%2C+not+just+models" alt="tagline"/>
+<a href="https://github.com/harshita10sharma">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00CEC9&center=true&vCenter=true&width=650&lines=Applied+ML+Engineer+%7C+Team+Conatus;Building+NLP+%2B+Agentic+AI+Systems;MindBot+%7C+MindEase+%7C+PollutionIQ+%7C+ValueTrack;Currently+exploring+MCP+%26+RAG+workflows" alt="Typing SVG" />
+</a>
 
 <br/>
 
