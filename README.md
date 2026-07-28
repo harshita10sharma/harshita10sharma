@@ -21,7 +21,7 @@
 
 ## 🚀 About Me
 
-- 🔭 B.Tech CSE (AIML) student — **CGPA 9.09** — currently building applied AI systems that go beyond training models
+- 🔭 B.Tech CSE (AIML) student — **CGPA 8.74** — currently building applied AI systems that go beyond training models
 - 🧠 Applied Machine Learning Engineer at **Team Conatus**, my university's core technical society
 - 🤖 Building **NLP + LLM systems**: chatbots with intent detection, safety-aware response logic, and MCP-based agentic tools
 - 📊 Comfortable across the full ML lifecycle — EDA, feature engineering, model training/evaluation, and **deployment via Flask APIs**
